@@ -30,7 +30,7 @@ data["type-4"] = { "ja-JP": "アーチャー系", "zh-TW": "弓箭手系", "en-U
 data["type-5"] = { "ja-JP": "アコライト系", "zh-TW": "服事系", "en-US": "Acolyte", "zh-CN": "服事系" };
 data["type-6"] = { "ja-JP": "商人系", "zh-TW": "商人系", "en-US": "Merchant", "zh-CN": "商人系" };
 
-data["typeBranch-11"] = { "ja-JP": "騎士", "zh-TW": "騎士", "en-US": "Knight", "zh-CN": "骑士" };
+data["typeBranch-11"] = { "ja-JP": "ナイト", "zh-TW": "騎士", "en-US": "Knight", "zh-CN": "骑士" };
 data["typeBranch-12"] = { "ja-JP": "クルセイダー", "zh-TW": "十字軍", "en-US": "Crusader", "zh-CN": "十字军" };
 data["typeBranch-21"] = { "ja-JP": "ウィザード", "zh-TW": "巫師", "en-US": "Wizard", "zh-CN": "巫师" };
 data["typeBranch-22"] = { "ja-JP": "セージ", "zh-TW": "賢者", "en-US": "Sage", "zh-CN": "贤者" };
