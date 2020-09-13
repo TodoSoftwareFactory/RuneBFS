@@ -7,6 +7,8 @@ import 'bootstrap-select/dist/css/bootstrap-select.min.css'
 import { library, dom } from '@fortawesome/fontawesome-svg-core'
 import { faGlobe, faDatabase, faUndo, faRedo, faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons'
 library.add(faGlobe, faDatabase, faUndo, faRedo, faExternalLinkAlt)
+import { faGithub } from '@fortawesome/free-brands-svg-icons'
+library.add(faGithub)
 dom.watch()
 
 import './style.css'

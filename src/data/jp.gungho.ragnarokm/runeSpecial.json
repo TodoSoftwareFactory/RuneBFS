@@ -1,0 +1,5126 @@
+﻿[
+  {
+    "Id": 11001,
+    "RuneName": "バッシュ―強化",
+    "Runetip": 1000,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 11002,
+    "RuneName": "剣修練―強化",
+    "Runetip": 1001,
+    "SkillTipParm": [
+      60.0
+    ]
+  },
+  {
+    "Id": 11003,
+    "RuneName": "プロボック―警戒",
+    "Runetip": 1002,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 11008,
+    "RuneName": "ラディカルチェイス",
+    "Runetip": 1005,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 11010,
+    "RuneName": "ラディカルチェイス",
+    "Runetip": 1005,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 11011,
+    "RuneName": "アジャイルアーマー",
+    "Runetip": 1009,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 11020,
+    "RuneName": "魔法防御強化",
+    "Runetip": 1016,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 11021,
+    "RuneName": "ブランディッシュスピア―多重効果",
+    "Runetip": 1003,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 11022,
+    "RuneName": "通常攻撃―強化",
+    "Runetip": 1004,
+    "SkillTipParm": [
+      3.0,
+      40.0
+    ]
+  },
+  {
+    "Id": 12001,
+    "RuneName": "ラディカルチェイス",
+    "Runetip": 1005,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 12002,
+    "RuneName": "上級剣修練",
+    "Runetip": 1006,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 12005,
+    "RuneName": "加速追撃",
+    "Runetip": 1007,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 12007,
+    "RuneName": "加速追撃",
+    "Runetip": 1007,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 12008,
+    "RuneName": "加速追撃",
+    "Runetip": 1007,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 12009,
+    "RuneName": "ワンハンドクイッケン―マスター",
+    "Runetip": 1008,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 12012,
+    "RuneName": "アジャイルアーマー",
+    "Runetip": 1009,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 12013,
+    "RuneName": "オーラブレイド―強化",
+    "Runetip": 1010,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 12014,
+    "RuneName": "騎兵修練―多重効果I",
+    "Runetip": 1011,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 12024,
+    "RuneName": "ヘッドクラッシュ―マスター",
+    "Runetip": 1012,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 12027,
+    "RuneName": "鋼の心―マスター",
+    "Runetip": 1013,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 12029,
+    "RuneName": "槍修練I",
+    "Runetip": 1014,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 12030,
+    "RuneName": "魔法防御強化",
+    "Runetip": 1016,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 12032,
+    "RuneName": "ピアース―射程",
+    "Runetip": 1015,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 12033,
+    "RuneName": "魔法防御強化",
+    "Runetip": 1016,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 12040,
+    "RuneName": "オートカウンター―魔法",
+    "Runetip": 1017,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 12041,
+    "RuneName": "オートカウンター―遠距離物理",
+    "Runetip": 1018,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 12050,
+    "RuneName": "オートカウンター―ダメージ反射シールド",
+    "Runetip": 1019,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 12060,
+    "RuneName": "ヘッドクラッシュ―残撃",
+    "Runetip": 1020,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 12070,
+    "RuneName": "チャージアタック",
+    "Runetip": 1021,
+    "SkillTipParm": [
+      1.0,
+      50.0
+    ]
+  },
+  {
+    "Id": 12071,
+    "RuneName": "チャージアタック",
+    "Runetip": 1021,
+    "SkillTipParm": [
+      1.0,
+      50.0
+    ]
+  },
+  {
+    "Id": 12072,
+    "RuneName": "チャージアタック",
+    "Runetip": 1021,
+    "SkillTipParm": [
+      1.0,
+      50.0
+    ]
+  },
+  {
+    "Id": 12080,
+    "RuneName": "コンセントレイション―警戒",
+    "Runetip": 1022,
+    "SkillTipParm": [
+      7.0
+    ]
+  },
+  {
+    "Id": 12090,
+    "RuneName": "プロボック―範囲",
+    "Runetip": 1023,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 12100,
+    "RuneName": "ジョイントビート―強化",
+    "Runetip": 1024,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 12110,
+    "RuneName": "スピアブーメラン",
+    "Runetip": 1025,
+    "SkillTipParm": [
+      300.0,
+      100.0,
+      2.0
+    ]
+  },
+  {
+    "Id": 12111,
+    "RuneName": "スピアブーメラン",
+    "Runetip": 1025,
+    "SkillTipParm": [
+      300.0,
+      100.0,
+      2.0
+    ]
+  },
+  {
+    "Id": 12112,
+    "RuneName": "スピアブーメラン",
+    "Runetip": 1025,
+    "SkillTipParm": [
+      300.0,
+      100.0,
+      2.0
+    ]
+  },
+  {
+    "Id": 12120,
+    "RuneName": "スピアブーメラン―減速",
+    "Runetip": 1026,
+    "SkillTipParm": [
+      15.0,
+      20.0
+    ]
+  },
+  {
+    "Id": 12130,
+    "RuneName": "バーサーク―警戒",
+    "Runetip": 1027,
+    "SkillTipParm": [
+      12.0
+    ]
+  },
+  {
+    "Id": 12131,
+    "RuneName": "フューリーレイジ―状態異常耐性",
+    "Runetip": 1028,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 12140,
+    "RuneName": "バーサーク―クールタイム減少",
+    "Runetip": 1029,
+    "SkillTipParm": [
+      7.0
+    ]
+  },
+  {
+    "Id": 12150,
+    "RuneName": "テンションリラックス",
+    "Runetip": 1030,
+    "SkillTipParm": [
+      100.0
+    ]
+  },
+  {
+    "Id": 12151,
+    "RuneName": "テンションリラックス",
+    "Runetip": 1030,
+    "SkillTipParm": [
+      100.0
+    ]
+  },
+  {
+    "Id": 12152,
+    "RuneName": "テンションリラックス",
+    "Runetip": 1030,
+    "SkillTipParm": [
+      100.0
+    ]
+  },
+  {
+    "Id": 12160,
+    "RuneName": "スパイラルピアース―射程",
+    "Runetip": 1031,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 12170,
+    "RuneName": "フューリーレイジ",
+    "Runetip": 1032,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 12180,
+    "RuneName": "インデュア―無限",
+    "Runetip": 1033,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 12190,
+    "RuneName": "ロードオーラ―マスター",
+    "Runetip": 1034,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 13010,
+    "RuneName": "バッシュ-エキスパート",
+    "Runetip": 1301,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 13020,
+    "RuneName": "チャージアタック",
+    "Runetip": 1302,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 13030,
+    "RuneName": "正義の判決-魔法攻撃",
+    "Runetip": 1303,
+    "SkillTipParm": [
+      0.8
+    ]
+  },
+  {
+    "Id": 13040,
+    "RuneName": "鋼の心―クールタイム",
+    "Runetip": 1304,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 14010,
+    "RuneName": "ファントムスラスト―射程",
+    "Runetip": 1401,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 14020,
+    "RuneName": "ドラゴンブレス―強化",
+    "Runetip": 1402,
+    "SkillTipParm": [
+      6.0
+    ]
+  },
+  {
+    "Id": 14030,
+    "RuneName": "ハンドレッドスピア―スパイラル",
+    "Runetip": 1403,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 14040,
+    "RuneName": "ハンドレッドスピア―強化",
+    "Runetip": 1404,
+    "SkillTipParm": [
+      6.0
+    ]
+  },
+  {
+    "Id": 14050,
+    "RuneName": "ルーンマスター―延長",
+    "Runetip": 1405,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 14060,
+    "RuneName": "エンチャントブレイド―強化",
+    "Runetip": 1406,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 14070,
+    "RuneName": "一投入魂―堅守",
+    "Runetip": 1407,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 14080,
+    "RuneName": "ドラゴンガード―火耐性",
+    "Runetip": 1408,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 21001,
+    "RuneName": "ファイアーボルト―集中",
+    "Runetip": 2000,
+    "SkillTipParm": [
+      0.1
+    ]
+  },
+  {
+    "Id": 21002,
+    "RuneName": "ファイアーウォール―クイック",
+    "Runetip": 2001,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 21004,
+    "RuneName": "ファイアーボルト―クイック",
+    "Runetip": 2002,
+    "SkillTipParm": [
+      0.2
+    ]
+  },
+  {
+    "Id": 21005,
+    "RuneName": "魔法クリティカル",
+    "Runetip": 2003,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 21006,
+    "RuneName": "オートサイトラッシャー",
+    "Runetip": 2004,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 21007,
+    "RuneName": "ファイアーボール―強化",
+    "Runetip": 2005,
+    "SkillTipParm": [
+      5.0,
+      3.0
+    ]
+  },
+  {
+    "Id": 21010,
+    "RuneName": "ファイアーウォール―抵抗",
+    "Runetip": 2006,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 21013,
+    "RuneName": "コールドボルト―集中",
+    "Runetip": 2007,
+    "SkillTipParm": [
+      0.1
+    ]
+  },
+  {
+    "Id": 21016,
+    "RuneName": "ロードオブヴァーミリオン―集中",
+    "Runetip": 2008,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 22004,
+    "RuneName": "空間無視",
+    "Runetip": 2009,
+    "SkillTipParm": [
+      1.0,
+      10.0
+    ]
+  },
+  {
+    "Id": 22006,
+    "RuneName": "ファイアーボルト＋",
+    "Runetip": 2010,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 22007,
+    "RuneName": "サイトストック",
+    "Runetip": 2011,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 22008,
+    "RuneName": "イグニッション―強化",
+    "Runetip": 2012,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 22012,
+    "RuneName": "ヘヴンズドライブ―集中",
+    "Runetip": 2013,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 22017,
+    "RuneName": "通常魔法攻撃",
+    "Runetip": 2014,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 22018,
+    "RuneName": "ソウルストライク＋",
+    "Runetip": 2015,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 22019,
+    "RuneName": "オートソウル―確率UP",
+    "Runetip": 2016,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 22020,
+    "RuneName": "オートソウル",
+    "Runetip": 2017,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 22024,
+    "RuneName": "アイスブレイク",
+    "Runetip": 2018,
+    "SkillTipParm": [
+      40.0
+    ]
+  },
+  {
+    "Id": 22025,
+    "RuneName": "アイスブレイク―ダメージUP",
+    "Runetip": 2019,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 22028,
+    "RuneName": "ストームガスト―集中",
+    "Runetip": 2020,
+    "SkillTipParm": [
+      4.0
+    ]
+  },
+  {
+    "Id": 22033,
+    "RuneName": "元素ディピュージョン―強化",
+    "Runetip": 2021,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 22040,
+    "RuneName": "メテオストームII",
+    "Runetip": 2023,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 22041,
+    "RuneName": "ファイアーピラー",
+    "Runetip": 2024,
+    "SkillTipParm": [
+      50.0
+    ]
+  },
+  {
+    "Id": 22042,
+    "RuneName": "ファイアーピラー―強化",
+    "Runetip": 2025,
+    "SkillTipParm": [
+      50.0
+    ]
+  },
+  {
+    "Id": 22043,
+    "RuneName": "ダブルファイアーピラー",
+    "Runetip": 2026,
+    "SkillTipParm": [
+      50.0
+    ]
+  },
+  {
+    "Id": 22044,
+    "RuneName": "メテオストームII",
+    "Runetip": 2023,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 22045,
+    "RuneName": "メテオストームI",
+    "Runetip": 2040,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 22046,
+    "RuneName": "メテオストームI",
+    "Runetip": 2040,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 22047,
+    "RuneName": "メテオストームI",
+    "Runetip": 2040,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 22048,
+    "RuneName": "メテオストームI",
+    "Runetip": 2040,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 22050,
+    "RuneName": "ナパームバルカン＋",
+    "Runetip": 2027,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 22060,
+    "RuneName": "避雷針I",
+    "Runetip": 2028,
+    "SkillTipParm": [
+      1.0,
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 22061,
+    "RuneName": "避雷針I",
+    "Runetip": 2028,
+    "SkillTipParm": [
+      1.0,
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 22070,
+    "RuneName": "元素ディピュージョン―強化",
+    "Runetip": 2030,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 22080,
+    "RuneName": "元素ディピュージョン",
+    "Runetip": 2029,
+    "SkillTipParm": [
+      5.0,
+      25.0
+    ]
+  },
+  {
+    "Id": 22090,
+    "RuneName": "空間無視",
+    "Runetip": 2035,
+    "SkillTipParm": [
+      1.0,
+      10.0
+    ]
+  },
+  {
+    "Id": 22091,
+    "RuneName": "空間無視",
+    "Runetip": 2035,
+    "SkillTipParm": [
+      1.0,
+      10.0
+    ]
+  },
+  {
+    "Id": 22100,
+    "RuneName": "コールドボルト―クイック",
+    "Runetip": 2033,
+    "SkillTipParm": [
+      0.2
+    ]
+  },
+  {
+    "Id": 22110,
+    "RuneName": "アイスブレイク―拡大",
+    "Runetip": 2031,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 22120,
+    "RuneName": "コールドボルト＋",
+    "Runetip": 2032,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 22130,
+    "RuneName": "アイスグレイブ",
+    "Runetip": 2034,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 22140,
+    "RuneName": "アイスグレイブ―回復",
+    "Runetip": 2036,
+    "SkillTipParm": [
+      1.5
+    ]
+  },
+  {
+    "Id": 22150,
+    "RuneName": "グラビテーションフィールドII",
+    "Runetip": 2037,
+    "SkillTipParm": [
+      200.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 22151,
+    "RuneName": "グラビテーションフィールドI",
+    "Runetip": 2039,
+    "SkillTipParm": [
+      200.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 22152,
+    "RuneName": "グラビテーションフィールドI",
+    "Runetip": 2039,
+    "SkillTipParm": [
+      200.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 22153,
+    "RuneName": "グラビテーションフィールドI",
+    "Runetip": 2039,
+    "SkillTipParm": [
+      200.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 22154,
+    "RuneName": "グラビテーションフィールドII",
+    "Runetip": 2037,
+    "SkillTipParm": [
+      200.0,
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 22160,
+    "RuneName": "エレメント集中",
+    "Runetip": 2038,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 22161,
+    "RuneName": "エレメント集中",
+    "Runetip": 2038,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 22170,
+    "RuneName": "イグニッション―通常攻撃",
+    "Runetip": 2022,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 23010,
+    "RuneName": "クァグマイア-弱化",
+    "Runetip": 2301,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 23020,
+    "RuneName": "魔力増幅",
+    "Runetip": 2302,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 23030,
+    "RuneName": "念力を強化する",
+    "Runetip": 2303,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 24010,
+    "RuneName": "テトラボルテックス―融合",
+    "Runetip": 2401,
+    "SkillTipParm": [
+      4.0
+    ]
+  },
+  {
+    "Id": 24020,
+    "RuneName": "チェーンライトニング―追撃",
+    "Runetip": 2402,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 24030,
+    "RuneName": "チェーンライトニング―震動",
+    "Runetip": 2403,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 24040,
+    "RuneName": "ソウルエクスパンション―強化",
+    "Runetip": 2404,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 24050,
+    "RuneName": "ホワイトインプリズン―拷問",
+    "Runetip": 2405,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 24060,
+    "RuneName": "リコグナイズドスペル―マスター",
+    "Runetip": 2406,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 24070,
+    "RuneName": "ドレインライフ―強化",
+    "Runetip": 2407,
+    "SkillTipParm": [
+      4.0
+    ]
+  },
+  {
+    "Id": 24080,
+    "RuneName": "イージーダメージ―強化",
+    "Runetip": 2408,
+    "SkillTipParm": [
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "Id": 31001,
+    "RuneName": "アンブッシュブーストI",
+    "Runetip": 3000,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 31002,
+    "RuneName": "アンブッシュブーストII",
+    "Runetip": 3000,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 31006,
+    "RuneName": "ダブルアタックブーストI",
+    "Runetip": 3001,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 31007,
+    "RuneName": "ダブルアタックブーストII",
+    "Runetip": 3001,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 31011,
+    "RuneName": "スタン追加ダメージI",
+    "Runetip": 3002,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 31012,
+    "RuneName": "スタン追加ダメージII",
+    "Runetip": 3002,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 31013,
+    "RuneName": "スタン追加ダメージIII",
+    "Runetip": 3002,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 31014,
+    "RuneName": "スタン追加ダメージIV",
+    "Runetip": 3002,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 31015,
+    "RuneName": "スタン追加ダメージV",
+    "Runetip": 3002,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 31016,
+    "RuneName": "ヘヴィスタブI",
+    "Runetip": 3003,
+    "SkillTipParm": [
+      10.0,
+      100.0
+    ]
+  },
+  {
+    "Id": 31017,
+    "RuneName": "ヘヴィスタブII",
+    "Runetip": 3004,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 31019,
+    "RuneName": "毒耐性I",
+    "Runetip": 3005,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 31020,
+    "RuneName": "毒耐性II",
+    "Runetip": 3005,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 31021,
+    "RuneName": "ベナムナイフI",
+    "Runetip": 3006,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 31022,
+    "RuneName": "ベナムナイフII",
+    "Runetip": 3006,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 31024,
+    "RuneName": "エンチャントポイズンI",
+    "Runetip": 3017,
+    "SkillTipParm": [
+      25.0
+    ]
+  },
+  {
+    "Id": 31025,
+    "RuneName": "エンチャントポイズンII",
+    "Runetip": 3017,
+    "SkillTipParm": [
+      50.0
+    ]
+  },
+  {
+    "Id": 31026,
+    "RuneName": "毒I",
+    "Runetip": 3007,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 31027,
+    "RuneName": "毒II",
+    "Runetip": 3007,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 32001,
+    "RuneName": "アーマーブレイクI",
+    "Runetip": 3008,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 32002,
+    "RuneName": "アーマーブレイクII",
+    "Runetip": 3008,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 32003,
+    "RuneName": "バックステップI",
+    "Runetip": 3009,
+    "SkillTipParm": [
+      25.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 32004,
+    "RuneName": "バックステップII",
+    "Runetip": 3010,
+    "SkillTipParm": [
+      15.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 32005,
+    "RuneName": "インベナムI",
+    "Runetip": 3011,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 32006,
+    "RuneName": "インベナムII",
+    "Runetip": 3012,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 32007,
+    "RuneName": "インベナムIII",
+    "Runetip": 3012,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 32011,
+    "RuneName": "ソニックブローI",
+    "Runetip": 3013,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 32012,
+    "RuneName": "ソニックブローII",
+    "Runetip": 3013,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 32013,
+    "RuneName": "ソニックブローIII",
+    "Runetip": 3014,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 32014,
+    "RuneName": "ベナムダストI",
+    "Runetip": 3015,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 32019,
+    "RuneName": "グリムトゥースI",
+    "Runetip": 3016,
+    "SkillTipParm": [
+      5.0,
+      20.0
+    ]
+  },
+  {
+    "Id": 32021,
+    "RuneName": "グリムトゥースIII",
+    "Runetip": 3016,
+    "SkillTipParm": [
+      5.0,
+      40.0
+    ]
+  },
+  {
+    "Id": 32024,
+    "RuneName": "エンチャントポイズン強化I",
+    "Runetip": 3017,
+    "SkillTipParm": [
+      50.0
+    ]
+  },
+  {
+    "Id": 32025,
+    "RuneName": "エンチャントポイズン強化II",
+    "Runetip": 3017,
+    "SkillTipParm": [
+      25.0
+    ]
+  },
+  {
+    "Id": 32026,
+    "RuneName": "グリムトゥース―ブーストI",
+    "Runetip": 3018,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 32027,
+    "RuneName": "グリムトゥース―ブーストII",
+    "Runetip": 3018,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 32031,
+    "RuneName": "カタール修練I",
+    "Runetip": 3019,
+    "SkillTipParm": [
+      25.0
+    ]
+  },
+  {
+    "Id": 32032,
+    "RuneName": "カタール修練II",
+    "Runetip": 3019,
+    "SkillTipParm": [
+      50.0
+    ]
+  },
+  {
+    "Id": 32040,
+    "RuneName": "ポイズンスロー",
+    "Runetip": 3020,
+    "SkillTipParm": [
+      5.0,
+      30.0
+    ]
+  },
+  {
+    "Id": 32050,
+    "RuneName": "ポイズンスロー―強化",
+    "Runetip": 3021,
+    "SkillTipParm": [
+      1.0,
+      10.0
+    ]
+  },
+  {
+    "Id": 32060,
+    "RuneName": "ソウルブレイカー―強化",
+    "Runetip": 3022,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 32070,
+    "RuneName": "ソウルブレイカー―集中",
+    "Runetip": 3023,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 32080,
+    "RuneName": "ソウルブレイカー―ブースト",
+    "Runetip": 3024,
+    "SkillTipParm": [
+      6.0
+    ]
+  },
+  {
+    "Id": 32090,
+    "RuneName": "スラッシュ―集中",
+    "Runetip": 3025,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 32100,
+    "RuneName": "エンチャントデッドリーポイズン―強化",
+    "Runetip": 3026,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 32110,
+    "RuneName": "メテオアサルト-集中",
+    "Runetip": 3027,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 32120,
+    "RuneName": "メテオアサルト-瞬殺",
+    "Runetip": 3028,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 33010,
+    "RuneName": "ソニックブロー-鎧突貫",
+    "Runetip": 3301,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 33020,
+    "RuneName": "ハイディング-防護",
+    "Runetip": 3302,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 33030,
+    "RuneName": "アサシンオーラ-防護",
+    "Runetip": 3303,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 33040,
+    "RuneName": "ハイディング強化―延長",
+    "Runetip": 3304,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 34010,
+    "RuneName": "ローリングカッター―切断",
+    "Runetip": 3401,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 34020,
+    "RuneName": "クロスリッパースラッシャー―強化",
+    "Runetip": 3402,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 34030,
+    "RuneName": "ウェポンブロッキング―カウンタースラッシュ",
+    "Runetip": 3403,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 34040,
+    "RuneName": "ウィンドステップ―無影",
+    "Runetip": 3404,
+    "SkillTipParm": [
+      6.0
+    ]
+  },
+  {
+    "Id": 34050,
+    "RuneName": "ウィンドステップ―破法",
+    "Runetip": 3405,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 34060,
+    "RuneName": "ポイズニングスプレッド",
+    "Runetip": 3406,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 34070,
+    "RuneName": "毒性爆発",
+    "Runetip": 3407,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 34080,
+    "RuneName": "ダークイリュージョン―突撃",
+    "Runetip": 3408,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 41001,
+    "RuneName": "アローシャワーI",
+    "Runetip": 4000,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 41002,
+    "RuneName": "アローシャワーII",
+    "Runetip": 4000,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 41005,
+    "RuneName": "アローシャワーV",
+    "Runetip": 4001,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 41006,
+    "RuneName": "ファイアーアローシャワー",
+    "Runetip": 4002,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 41007,
+    "RuneName": "ファイアバースト",
+    "Runetip": 4003,
+    "SkillTipParm": [
+      10.0,
+      50.0
+    ]
+  },
+  {
+    "Id": 41008,
+    "RuneName": "エレメンタルアローI",
+    "Runetip": 4004,
+    "SkillTipParm": [
+      0.75
+    ]
+  },
+  {
+    "Id": 41009,
+    "RuneName": "エレメンタルアローII",
+    "Runetip": 4004,
+    "SkillTipParm": [
+      1.5
+    ]
+  },
+  {
+    "Id": 41011,
+    "RuneName": "バインドダメージI",
+    "Runetip": 4005,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 41012,
+    "RuneName": "バインドダメージII",
+    "Runetip": 4005,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 41013,
+    "RuneName": "バインドダメージIII",
+    "Runetip": 4005,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 41014,
+    "RuneName": "チャージアローI",
+    "Runetip": 4006,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 41016,
+    "RuneName": "チャージアローIII",
+    "Runetip": 4007,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42001,
+    "RuneName": "ブリッツビートI",
+    "Runetip": 4008,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 42002,
+    "RuneName": "ブリッツビートII",
+    "Runetip": 4008,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 42006,
+    "RuneName": "ビーストマスタリーI",
+    "Runetip": 4009,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42007,
+    "RuneName": "ビーストマスタリーII",
+    "Runetip": 4009,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 42011,
+    "RuneName": "ペットダメージI",
+    "Runetip": 4010,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 42012,
+    "RuneName": "ペットダメージII",
+    "Runetip": 4011,
+    "SkillTipParm": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 42013,
+    "RuneName": "ブリッツビートVI",
+    "Runetip": 4012,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 42015,
+    "RuneName": "ブリッツビートVIII",
+    "Runetip": 4012,
+    "SkillTipParm": [
+      30.0
+    ]
+  },
+  {
+    "Id": 42016,
+    "RuneName": "ディスラプションアローI",
+    "Runetip": 4013,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42017,
+    "RuneName": "ディスラプションアローII",
+    "Runetip": 4014,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 42022,
+    "RuneName": "ディスラプションアローVII",
+    "Runetip": 4015,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 42023,
+    "RuneName": "インジュリーアローI",
+    "Runetip": 4016,
+    "SkillTipParm": [
+      0.2
+    ]
+  },
+  {
+    "Id": 42025,
+    "RuneName": "クレイモアトラップI",
+    "Runetip": 4017,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 42026,
+    "RuneName": "クレイモアトラップII",
+    "Runetip": 4017,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42030,
+    "RuneName": "デトネイターI",
+    "Runetip": 4018,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 42031,
+    "RuneName": "デトネイターII",
+    "Runetip": 4019,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 42032,
+    "RuneName": "デトネイターIII",
+    "Runetip": 4019,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42036,
+    "RuneName": "アイストラップI",
+    "Runetip": 4020,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42037,
+    "RuneName": "アイストラップII",
+    "Runetip": 4020,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 42050,
+    "RuneName": "ランドマイン―強化",
+    "Runetip": 4021,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 42060,
+    "RuneName": "トラップ研究―マスター",
+    "Runetip": 4022,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 42070,
+    "RuneName": "トラップ―悪夢",
+    "Runetip": 4023,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42080,
+    "RuneName": "ファルコン―フライトン",
+    "Runetip": 4024,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 42090,
+    "RuneName": "ファルコン―クリアランス",
+    "Runetip": 4025,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42100,
+    "RuneName": "プリズンアロー",
+    "Runetip": 4026,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42101,
+    "RuneName": "プリズンアロー",
+    "Runetip": 4026,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42102,
+    "RuneName": "プリズンアロー",
+    "Runetip": 4026,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42103,
+    "RuneName": "プリズンアロー",
+    "Runetip": 4026,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42104,
+    "RuneName": "プリズンアロー",
+    "Runetip": 4026,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 42110,
+    "RuneName": "マルチプルショット―強化",
+    "Runetip": 4027,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 42120,
+    "RuneName": "マルチプルショット―集中",
+    "Runetip": 4028,
+    "SkillTipParm": [
+      0.1
+    ]
+  },
+  {
+    "Id": 42130,
+    "RuneName": "シャープシューティング―マスター",
+    "Runetip": 4029,
+    "SkillTipParm": [
+      0.3,
+      1.0,
+      0.3
+    ]
+  },
+  {
+    "Id": 43010,
+    "RuneName": "ウインドウォーク-防護",
+    "Runetip": 4301,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 43020,
+    "RuneName": "マルチプルショット―集中",
+    "Runetip": 4302,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 43030,
+    "RuneName": "通常ダメージ",
+    "Runetip": 4303,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 43040,
+    "RuneName": "トラップ改良",
+    "Runetip": 4304,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 43041,
+    "RuneName": "トラップ改良",
+    "Runetip": 4304,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 43042,
+    "RuneName": "トラップ改良",
+    "Runetip": 4304,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 44010,
+    "RuneName": "ウォーグライダー",
+    "Runetip": 4401,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 44020,
+    "RuneName": "ウォーグストライク―強化",
+    "Runetip": 4402,
+    "SkillTipParm": [
+      4.0
+    ]
+  },
+  {
+    "Id": 44030,
+    "RuneName": "ウォーグストライク―協力",
+    "Runetip": 4403,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 44040,
+    "RuneName": "イクシードブレイク―集中",
+    "Runetip": 4404,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 44050,
+    "RuneName": "デススナイプ―強化",
+    "Runetip": 4405,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 44060,
+    "RuneName": "デススナイプ―照準",
+    "Runetip": 4406,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 44070,
+    "RuneName": "アローストーム―暴風",
+    "Runetip": 4407,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 44080,
+    "RuneName": "エレクトリックショッカー―強化",
+    "Runetip": 4408,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 44090,
+    "RuneName": "ナチュラルガード",
+    "Runetip": 4409,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 51001,
+    "RuneName": "ヒール―強化",
+    "Runetip": 5000,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 51002,
+    "RuneName": "エンデュアヒール",
+    "Runetip": 5001,
+    "SkillTipParm": [
+      7.0
+    ]
+  },
+  {
+    "Id": 51003,
+    "RuneName": "エンデュアヒール―強化",
+    "Runetip": 5002,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 51004,
+    "RuneName": "キリエエレイソン―疾走",
+    "Runetip": 5003,
+    "SkillTipParm": [
+      20.0,
+      1500.0
+    ]
+  },
+  {
+    "Id": 51010,
+    "RuneName": "ラピッドサンクチュアリ",
+    "Runetip": 5004,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 51012,
+    "RuneName": "鈍器修練―強化",
+    "Runetip": 5005,
+    "SkillTipParm": [
+      60.0
+    ]
+  },
+  {
+    "Id": 51013,
+    "RuneName": "パワー攻撃",
+    "Runetip": 5006,
+    "SkillTipParm": [
+      5.0,
+      50.0
+    ]
+  },
+  {
+    "Id": 51014,
+    "RuneName": "ターンアンデッド―回復",
+    "Runetip": 5007,
+    "SkillTipParm": [
+      7.0
+    ]
+  },
+  {
+    "Id": 51015,
+    "RuneName": "イムポシティオマヌス―強化",
+    "Runetip": 5008,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 51017,
+    "RuneName": "上級物理防御",
+    "Runetip": 5025,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 51019,
+    "RuneName": "神聖増幅―スタン",
+    "Runetip": 5009,
+    "SkillTipParm": [
+      20.0,
+      2.0
+    ]
+  },
+  {
+    "Id": 51021,
+    "RuneName": "上級魔法防御",
+    "Runetip": 5027,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 51022,
+    "RuneName": "上級物理防御",
+    "Runetip": 5025,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 51023,
+    "RuneName": "上級魔法防御",
+    "Runetip": 5027,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 52001,
+    "RuneName": "ダブルヒールI",
+    "Runetip": 5010,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 52003,
+    "RuneName": "ダブルヒール―延長",
+    "Runetip": 5011,
+    "SkillTipParm": [
+      3.0,
+      3.0
+    ]
+  },
+  {
+    "Id": 52004,
+    "RuneName": "マグニフィカート―集中",
+    "Runetip": 5012,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 52006,
+    "RuneName": "信仰の祈り",
+    "Runetip": 5013,
+    "SkillTipParm": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 52007,
+    "RuneName": "信仰の祈り",
+    "Runetip": 5013,
+    "SkillTipParm": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 52008,
+    "RuneName": "信仰の祈り―回復",
+    "Runetip": 5014,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 52011,
+    "RuneName": "ワープポータル",
+    "Runetip": 5015,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 52013,
+    "RuneName": "通常魔法攻撃",
+    "Runetip": 5016,
+    "SkillTipParm": [
+      7.0,
+      50.0
+    ]
+  },
+  {
+    "Id": 52019,
+    "RuneName": "通常攻撃-沈黙",
+    "Runetip": 5017,
+    "SkillTipParm": [
+      2.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 52021,
+    "RuneName": "オートグロリア",
+    "Runetip": 5018,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 52023,
+    "RuneName": "コンフェッション",
+    "Runetip": 5019,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 52024,
+    "RuneName": "コンフェッション―多重効果",
+    "Runetip": 5020,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 52030,
+    "RuneName": "マグヌスエクソシズム―集中",
+    "Runetip": 5021,
+    "SkillTipParm": [
+      0.2,
+      7.0
+    ]
+  },
+  {
+    "Id": 52031,
+    "RuneName": "グループリザレクション",
+    "Runetip": 5022,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 52034,
+    "RuneName": "サフラギウム―延長",
+    "Runetip": 5023,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 52035,
+    "RuneName": "ルアフ―延長",
+    "Runetip": 5024,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 52036,
+    "RuneName": "上級物理防御",
+    "Runetip": 5025,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 52037,
+    "RuneName": "マグヌスエクソシズム―強化",
+    "Runetip": 5039,
+    "SkillTipParm": [
+      30.0
+    ]
+  },
+  {
+    "Id": 52040,
+    "RuneName": "ダブルヒールI",
+    "Runetip": 5010,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 52041,
+    "RuneName": "ダブルヒールI",
+    "Runetip": 5010,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 52042,
+    "RuneName": "ダブルヒールI",
+    "Runetip": 5010,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 52060,
+    "RuneName": "上級魔法防御",
+    "Runetip": 5027,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 52070,
+    "RuneName": "サフラギウム―集中",
+    "Runetip": 5028,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 52080,
+    "RuneName": "サフラギウム賛歌",
+    "Runetip": 5032,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 52090,
+    "RuneName": "強化効果クリアランス",
+    "Runetip": 5029,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 52100,
+    "RuneName": "ワードマジック",
+    "Runetip": 5030,
+    "SkillTipParm": [
+      100.0,
+      0.5
+    ]
+  },
+  {
+    "Id": 52110,
+    "RuneName": "速度減少―拡大",
+    "Runetip": 5031,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 52120,
+    "RuneName": "信仰の祈り",
+    "Runetip": 5036,
+    "SkillTipParm": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 52121,
+    "RuneName": "信仰の祈り",
+    "Runetip": 5036,
+    "SkillTipParm": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 52122,
+    "RuneName": "信仰の祈り",
+    "Runetip": 5036,
+    "SkillTipParm": [
+      1.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 52130,
+    "RuneName": "レックスディビーナ-抑制",
+    "Runetip": 5033,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 52140,
+    "RuneName": "グループリザレクション",
+    "Runetip": 5034,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 52150,
+    "RuneName": "ダブルポータル",
+    "Runetip": 5035,
+    "SkillTipParm": [
+      100.0,
+      5000.0
+    ]
+  },
+  {
+    "Id": 52151,
+    "RuneName": "ダブルポータル",
+    "Runetip": 5035,
+    "SkillTipParm": [
+      100.0,
+      5000.0
+    ]
+  },
+  {
+    "Id": 52160,
+    "RuneName": "オートイムポシティオマヌス",
+    "Runetip": 5037,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 52170,
+    "RuneName": "コンフェッション",
+    "Runetip": 5038,
+    "SkillTipParm": [
+      1.0,
+      150.0,
+      2.0
+    ]
+  },
+  {
+    "Id": 52171,
+    "RuneName": "コンフェッション",
+    "Runetip": 5038,
+    "SkillTipParm": [
+      1.0,
+      150.0,
+      2.0
+    ]
+  },
+  {
+    "Id": 52180,
+    "RuneName": "ターンアンデッド―強化",
+    "Runetip": 5040,
+    "SkillTipParm": [
+      100.0
+    ]
+  },
+  {
+    "Id": 53010,
+    "RuneName": "デーモンべイン-強化",
+    "Runetip": 5301,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 53020,
+    "RuneName": "サンクチュアリ-強効果",
+    "Runetip": 5302,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 53030,
+    "RuneName": "洒水祈福-多效",
+    "Runetip": 5303,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 53040,
+    "RuneName": "アスムプティオ-多効果",
+    "Runetip": 5304,
+    "SkillTipParm": [
+      0.2
+    ]
+  },
+  {
+    "Id": 53050,
+    "RuneName": "グロリア-遅延",
+    "Runetip": 5305,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 54010,
+    "RuneName": "リジェクション―強化",
+    "Runetip": 5401,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 54020,
+    "RuneName": "スローポイズン―延長",
+    "Runetip": 5402,
+    "SkillTipParm": [
+      2.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 54030,
+    "RuneName": "コルセオヒール―強化",
+    "Runetip": 5403,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 54040,
+    "RuneName": "オラティオ―強化",
+    "Runetip": 5404,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 54050,
+    "RuneName": "アドラムス―強化",
+    "Runetip": 5405,
+    "SkillTipParm": [
+      6.0
+    ]
+  },
+  {
+    "Id": 54060,
+    "RuneName": "アドラムス―集中",
+    "Runetip": 5406,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 54070,
+    "RuneName": "エクスピアティオ―強化",
+    "Runetip": 5407,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 54080,
+    "RuneName": "デュプレライト―強化",
+    "Runetip": 5408,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 54090,
+    "RuneName": "デュプレライト―加速",
+    "Runetip": 5409,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 61001,
+    "RuneName": "チェンジカートI",
+    "Runetip": 6000,
+    "SkillTipParm": [
+      2.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 61002,
+    "RuneName": "チェンジカートII",
+    "Runetip": 6000,
+    "SkillTipParm": [
+      4.0,
+      10.0
+    ]
+  },
+  {
+    "Id": 61006,
+    "RuneName": "カートレボリューション",
+    "Runetip": 6001,
+    "SkillTipParm": [
+      0.5,
+      5.0
+    ]
+  },
+  {
+    "Id": 61007,
+    "RuneName": "カートレボリューション",
+    "Runetip": 6001,
+    "SkillTipParm": [
+      1.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 61011,
+    "RuneName": "カート速度UPⅠ",
+    "Runetip": 6002,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 61012,
+    "RuneName": "カート速度UPII",
+    "Runetip": 6002,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 61013,
+    "RuneName": "カート速度UPIII",
+    "Runetip": 6002,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 61014,
+    "RuneName": "カート速度UPIV",
+    "Runetip": 6002,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 61015,
+    "RuneName": "カート速度UPV",
+    "Runetip": 6002,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 62001,
+    "RuneName": "スタン追加ダメージI",
+    "Runetip": 6003,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 62002,
+    "RuneName": "スタン追加ダメージII",
+    "Runetip": 6003,
+    "SkillTipParm": [
+      4.0
+    ]
+  },
+  {
+    "Id": 62003,
+    "RuneName": "スタン追加ダメージIII",
+    "Runetip": 6003,
+    "SkillTipParm": [
+      4.0
+    ]
+  },
+  {
+    "Id": 62004,
+    "RuneName": "スタン追加ダメージIV",
+    "Runetip": 6003,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 62005,
+    "RuneName": "スタン追加ダメージV",
+    "Runetip": 6003,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 62006,
+    "RuneName": "スキンテンパリングI",
+    "Runetip": 6004,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 62007,
+    "RuneName": "斧修練I",
+    "Runetip": 6008,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 62008,
+    "RuneName": "カートストライクI",
+    "Runetip": 6005,
+    "SkillTipParm": [
+      1.0,
+      10.0
+    ]
+  },
+  {
+    "Id": 62009,
+    "RuneName": "カートストライクII",
+    "Runetip": 6005,
+    "SkillTipParm": [
+      0.5,
+      5.0
+    ]
+  },
+  {
+    "Id": 62013,
+    "RuneName": "Dex変換I",
+    "Runetip": 6006,
+    "SkillTipParm": [
+      1.0,
+      0.2
+    ]
+  },
+  {
+    "Id": 62014,
+    "RuneName": "Dex変換II",
+    "Runetip": 6006,
+    "SkillTipParm": [
+      1.0,
+      0.2
+    ]
+  },
+  {
+    "Id": 62015,
+    "RuneName": "Dex変換III",
+    "Runetip": 6006,
+    "SkillTipParm": [
+      1.0,
+      0.2
+    ]
+  },
+  {
+    "Id": 62016,
+    "RuneName": "Dex変換IV",
+    "Runetip": 6006,
+    "SkillTipParm": [
+      1.0,
+      0.2
+    ]
+  },
+  {
+    "Id": 62017,
+    "RuneName": "Dex変換V",
+    "Runetip": 6006,
+    "SkillTipParm": [
+      1.0,
+      0.2
+    ]
+  },
+  {
+    "Id": 62018,
+    "RuneName": "斧修練II",
+    "Runetip": 6008,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 62019,
+    "RuneName": "斧修練III",
+    "Runetip": 6008,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 62020,
+    "RuneName": "カートストライクVI",
+    "Runetip": 6007,
+    "SkillTipParm": [
+      10.0,
+      10.0
+    ]
+  },
+  {
+    "Id": 62021,
+    "RuneName": "カートストライクVII",
+    "Runetip": 6007,
+    "SkillTipParm": [
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 62024,
+    "RuneName": "斧修練IV",
+    "Runetip": 6008,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 62025,
+    "RuneName": "斧修練V",
+    "Runetip": 6008,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 62026,
+    "RuneName": "Luk変換I",
+    "Runetip": 6009,
+    "SkillTipParm": [
+      1.0,
+      0.2
+    ]
+  },
+  {
+    "Id": 62027,
+    "RuneName": "Luk変換II",
+    "Runetip": 6009,
+    "SkillTipParm": [
+      1.0,
+      0.4
+    ]
+  },
+  {
+    "Id": 62028,
+    "RuneName": "Luk変換III",
+    "Runetip": 6009,
+    "SkillTipParm": [
+      1.0,
+      0.2
+    ]
+  },
+  {
+    "Id": 62029,
+    "RuneName": "Luk変換IV",
+    "Runetip": 6009,
+    "SkillTipParm": [
+      1.0,
+      0.2
+    ]
+  },
+  {
+    "Id": 62030,
+    "RuneName": "Luk変換V",
+    "Runetip": 6009,
+    "SkillTipParm": [
+      1.0,
+      0.2
+    ]
+  },
+  {
+    "Id": 62040,
+    "RuneName": "斧修練―強化",
+    "Runetip": 6010,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 62050,
+    "RuneName": "メマーナイト―マスター",
+    "Runetip": 6011,
+    "SkillTipParm": [
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 62060,
+    "RuneName": "アックストルネード",
+    "Runetip": 6012,
+    "SkillTipParm": [
+      40.0,
+      10.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 62061,
+    "RuneName": "アックストルネード",
+    "Runetip": 6012,
+    "SkillTipParm": [
+      40.0,
+      10.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 62062,
+    "RuneName": "アックストルネード",
+    "Runetip": 6012,
+    "SkillTipParm": [
+      40.0,
+      10.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 62063,
+    "RuneName": "アックストルネード",
+    "Runetip": 6012,
+    "SkillTipParm": [
+      40.0,
+      10.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 62064,
+    "RuneName": "アックストルネード",
+    "Runetip": 6012,
+    "SkillTipParm": [
+      40.0,
+      10.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 62070,
+    "RuneName": "アックストルネード―強化",
+    "Runetip": 6013,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 62080,
+    "RuneName": "パワー増大",
+    "Runetip": 6014,
+    "SkillTipParm": [
+      20.0,
+      1.0
+    ]
+  },
+  {
+    "Id": 62090,
+    "RuneName": "スプラッシュ",
+    "Runetip": 6015,
+    "SkillTipParm": [
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 62091,
+    "RuneName": "スプラッシュ",
+    "Runetip": 6015,
+    "SkillTipParm": [
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 62092,
+    "RuneName": "スプラッシュ",
+    "Runetip": 6015,
+    "SkillTipParm": [
+      5.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 62100,
+    "RuneName": "スプラッシュ―強化",
+    "Runetip": 6016,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 63010,
+    "RuneName": "アドレナリンラッシュ-強化",
+    "Runetip": 6301,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 63020,
+    "RuneName": "ラウドボイス-防御",
+    "Runetip": 6302,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 63030,
+    "RuneName": "武器修理-エキスパート",
+    "Runetip": 6303,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 64010,
+    "RuneName": "エレメントアーマー",
+    "Runetip": 6401,
+    "SkillTipParm": [
+      4.0
+    ]
+  },
+  {
+    "Id": 64020,
+    "RuneName": "リペア―マスター",
+    "Runetip": 6402,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 64030,
+    "RuneName": "ホバーリング―集中",
+    "Runetip": 6403,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 64040,
+    "RuneName": "セルフディストラクション―強化",
+    "Runetip": 6404,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 64050,
+    "RuneName": "エマージェンシーシールド",
+    "Runetip": 6405,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 64060,
+    "RuneName": "マグネティックフィールド―強化",
+    "Runetip": 6406,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 64070,
+    "RuneName": "アームズキャノン―強化",
+    "Runetip": 6407,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 64080,
+    "RuneName": "アームズキャノン―破壊",
+    "Runetip": 6408,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 64090,
+    "RuneName": "ブーストナックル強化",
+    "Runetip": 6409,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 70010,
+    "RuneName": "通常攻撃―強化",
+    "Runetip": 7001,
+    "SkillTipParm": [
+      3.0,
+      40.0
+    ]
+  },
+  {
+    "Id": 70020,
+    "RuneName": "ホーリークロス―強化",
+    "Runetip": 7002,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 70030,
+    "RuneName": "シールドチャージ―スタン",
+    "Runetip": 7003,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 70040,
+    "RuneName": "シールドチェーン―強化",
+    "Runetip": 7004,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 70050,
+    "RuneName": "シールドチェーン―射程",
+    "Runetip": 7005,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 70060,
+    "RuneName": "【プレッシャー】",
+    "Runetip": 7006,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 70061,
+    "RuneName": "【プレッシャー】",
+    "Runetip": 7006,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 70062,
+    "RuneName": "【プレッシャー】",
+    "Runetip": 7006,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 70063,
+    "RuneName": "【プレッシャー】",
+    "Runetip": 7006,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 70064,
+    "RuneName": "【プレッシャー】",
+    "Runetip": 7006,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 70070,
+    "RuneName": "天罰―強化効果",
+    "Runetip": 7007,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 70080,
+    "RuneName": "グランドクロス―警戒",
+    "Runetip": 7008,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 70090,
+    "RuneName": "グランドクロス―クイック",
+    "Runetip": 7009,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 70100,
+    "RuneName": "シールドブーメラン―強化",
+    "Runetip": 7010,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 70110,
+    "RuneName": "瀕死HP回復",
+    "Runetip": 7011,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 70120,
+    "RuneName": "十字架祝福",
+    "Runetip": 7012,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 70130,
+    "RuneName": "シールドチャージ―命中",
+    "Runetip": 7013,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 70140,
+    "RuneName": "グランドクロス―強化",
+    "Runetip": 7014,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 73010,
+    "RuneName": "サクリファイス-強化",
+    "Runetip": 7301,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 73020,
+    "RuneName": "シールドブーメラン―クールタイム",
+    "Runetip": 7302,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 73030,
+    "RuneName": "ディフェンダー-反射",
+    "Runetip": 7303,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 73040,
+    "RuneName": "魔力ギフト",
+    "Runetip": 7304,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 73050,
+    "RuneName": "盾の加護",
+    "Runetip": 7305,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 74010,
+    "RuneName": "アースドライブ―クールタイム減少",
+    "Runetip": 7401,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 74020,
+    "RuneName": "コマンドアサルト―移動速度UP",
+    "Runetip": 7402,
+    "SkillTipParm": [
+      4.0
+    ]
+  },
+  {
+    "Id": 74030,
+    "RuneName": "ブランド―強化",
+    "Runetip": 7403,
+    "SkillTipParm": [
+      7.0
+    ]
+  },
+  {
+    "Id": 74040,
+    "RuneName": "インスピレーション―祝福",
+    "Runetip": 7404,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 74050,
+    "RuneName": "パイエティ―延長",
+    "Runetip": 7405,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 74060,
+    "RuneName": "フィアーレス―鉄甲",
+    "Runetip": 7406,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 74070,
+    "RuneName": "バトルチャント―回復",
+    "Runetip": 7407,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 74080,
+    "RuneName": "パイエティ―信仰",
+    "Runetip": 7408,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 82001,
+    "RuneName": "通常攻撃―強化",
+    "Runetip": 8201,
+    "SkillTipParm": [
+      0.3
+    ]
+  },
+  {
+    "Id": 82002,
+    "RuneName": "アーススパイク-強化",
+    "Runetip": 8202,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 82003,
+    "RuneName": "元素領域-抵抗",
+    "Runetip": 8203,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 82004,
+    "RuneName": "フリーキャスト-急速",
+    "Runetip": 8204,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 82005,
+    "RuneName": "オートスペル-エキスパート",
+    "Runetip": 8205,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 82006,
+    "RuneName": "アーススパイク-スタン",
+    "Runetip": 8206,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 82007,
+    "RuneName": "ボルケーノ-烈炎",
+    "Runetip": 8207,
+    "SkillTipParm": [
+      30.0
+    ]
+  },
+  {
+    "Id": 82008,
+    "RuneName": "デリュージ-凍結",
+    "Runetip": 8208,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 82009,
+    "RuneName": "バイオレントゲイル-疾風",
+    "Runetip": 8209,
+    "SkillTipParm": [
+      10.0,
+      5.0
+    ]
+  },
+  {
+    "Id": 82010,
+    "RuneName": "スペルブレイカー-損耗",
+    "Runetip": 8210,
+    "SkillTipParm": [
+      50.0
+    ]
+  },
+  {
+    "Id": 82011,
+    "RuneName": "ダブルキャスティング-エキスパート",
+    "Runetip": 8211,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 82012,
+    "RuneName": "ウォールオブフォグ",
+    "Runetip": 8212,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 82013,
+    "RuneName": "ウォールオブフォグⅡ",
+    "Runetip": 8213,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 82014,
+    "RuneName": "ウォールオブフォグⅢ",
+    "Runetip": 8214,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 82015,
+    "RuneName": "ウォールオブフォグⅣ",
+    "Runetip": 8215,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 82016,
+    "RuneName": "スパイダーウェブ-自動",
+    "Runetip": 8216,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 82017,
+    "RuneName": "スパイダーウェブ-エキスパート",
+    "Runetip": 8217,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 82018,
+    "RuneName": "HP変換-高効果",
+    "Runetip": 8218,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 82019,
+    "RuneName": "ソウルバーン-破魔",
+    "Runetip": 8219,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 82020,
+    "RuneName": "ソウルバーン-強化",
+    "Runetip": 8220,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 82021,
+    "RuneName": "ソウルバーン-冷却",
+    "Runetip": 8221,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 82022,
+    "RuneName": "マジックロッド-強化",
+    "Runetip": 8222,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 82023,
+    "RuneName": "ソウルチェンジ-冷却",
+    "Runetip": 8223,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 82024,
+    "RuneName": "クリティカルダメージ強化",
+    "Runetip": 8224,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 82025,
+    "RuneName": "元素精霊の強化",
+    "Runetip": 8225,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 82026,
+    "RuneName": "スペルフィスト-敏捷",
+    "Runetip": 8226,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 82027,
+    "RuneName": "ヴェラチュールスピア―-特化",
+    "Runetip": 8227,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 82028,
+    "RuneName": "ヴェラチュールスピア―-強化",
+    "Runetip": 8228,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 82029,
+    "RuneName": "ヴェラチュールスピアー-抑制",
+    "Runetip": 8229,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 82030,
+    "RuneName": "ダイヤモンドダスト-特化",
+    "Runetip": 8230,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 82031,
+    "RuneName": "ダイヤモンドダスト-強化",
+    "Runetip": 8231,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 82032,
+    "RuneName": "マインドショック-苦痛",
+    "Runetip": 8232,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 82033,
+    "RuneName": "マインドショック-強化",
+    "Runetip": 8233,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 82034,
+    "RuneName": "バキュームエクストリーム",
+    "Runetip": 8234,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 82035,
+    "RuneName": "バキュームエクストリームⅡ",
+    "Runetip": 8235,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 82036,
+    "RuneName": "バキュームエクストリームⅢ",
+    "Runetip": 8236,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 82037,
+    "RuneName": "バキュームエクストリームIV",
+    "Runetip": 8237,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 82038,
+    "RuneName": "バキュームエクストリームV",
+    "Runetip": 8238,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 83010,
+    "RuneName": "フリーキャスト-警戒",
+    "Runetip": 8301,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 83020,
+    "RuneName": "スパイダーウェブ-強効果",
+    "Runetip": 8302,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 83030,
+    "RuneName": "ランドプロテクター-凝固",
+    "Runetip": 8303,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 83040,
+    "RuneName": "HP変換-強効果",
+    "Runetip": 8304,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 90010,
+    "RuneName": "ダブルストリップアーマー",
+    "Runetip": 9001,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 90011,
+    "RuneName": "ダブルストリップアーマー",
+    "Runetip": 9001,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 90012,
+    "RuneName": "ダブルストリップアーマー",
+    "Runetip": 9001,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 90013,
+    "RuneName": "ダブルストリップアーマー",
+    "Runetip": 9001,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 90014,
+    "RuneName": "ダブルストリップアーマー",
+    "Runetip": 9001,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 90020,
+    "RuneName": "【ギャングスターパラダイス】",
+    "Runetip": 9002,
+    "SkillTipParm": [
+      9.0
+    ]
+  },
+  {
+    "Id": 90021,
+    "RuneName": "【ギャングスターパラダイス】",
+    "Runetip": 9002,
+    "SkillTipParm": [
+      9.0
+    ]
+  },
+  {
+    "Id": 90030,
+    "RuneName": "【トーキーボックス】",
+    "Runetip": 9003,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 90031,
+    "RuneName": "【トーキーボックス】",
+    "Runetip": 9003,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 90040,
+    "RuneName": "【リムーブトラップ】",
+    "Runetip": 9004,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 90041,
+    "RuneName": "【リムーブトラップ】",
+    "Runetip": 9004,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 90050,
+    "RuneName": "トライアングルショット―強化",
+    "Runetip": 9005,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 90060,
+    "RuneName": "サプライズアタック―強化",
+    "Runetip": 9006,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 90070,
+    "RuneName": "サプライズアタック―ダメージ増加",
+    "Runetip": 9007,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 90080,
+    "RuneName": "バックスタブ―強化",
+    "Runetip": 9008,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 90090,
+    "RuneName": "バックスタブ―マスター",
+    "Runetip": 9009,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 90100,
+    "RuneName": "インティミデイト―強化",
+    "Runetip": 9010,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 90110,
+    "RuneName": "インティミデイト―圧迫",
+    "Runetip": 9011,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 90120,
+    "RuneName": "アンブッシュ―強化",
+    "Runetip": 9012,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 90130,
+    "RuneName": "クローズコンファイン―ガード",
+    "Runetip": 9013,
+    "SkillTipParm": [
+      2.0,
+      10.0
+    ]
+  },
+  {
+    "Id": 90140,
+    "RuneName": "ディサピア―クールタイム",
+    "Runetip": 9014,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 90150,
+    "RuneName": "ディサピア―マスター",
+    "Runetip": 9015,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 90160,
+    "RuneName": "ハイディング強化―延長",
+    "Runetip": 9016,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 90170,
+    "RuneName": "ダブルアタック―強化",
+    "Runetip": 9017,
+    "SkillTipParm": [
+      6.0
+    ]
+  },
+  {
+    "Id": 90180,
+    "RuneName": "短剣修練",
+    "Runetip": 9018,
+    "SkillTipParm": [
+      12.0
+    ]
+  },
+  {
+    "Id": 90190,
+    "RuneName": "弓修練",
+    "Runetip": 9019,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 90200,
+    "RuneName": "バインドアタック",
+    "Runetip": 9020,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 90210,
+    "RuneName": "スタン追撃",
+    "Runetip": 9021,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 90220,
+    "RuneName": "遠距離物理ダメージ",
+    "Runetip": 9022,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 93010,
+    "RuneName": "サプライズアタック-急速",
+    "Runetip": 9301,
+    "SkillTipParm": [
+      4.0,
+      100.0
+    ]
+  },
+  {
+    "Id": 93020,
+    "RuneName": "デッドリーアサルト-残虐",
+    "Runetip": 9302,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 93030,
+    "RuneName": "クローズコンファイン-強化",
+    "Runetip": 9303,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 93040,
+    "RuneName": "ストリップシールド-遠距離",
+    "Runetip": 9304,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 94010,
+    "RuneName": "血の渇望―投獄",
+    "Runetip": 9401,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 94020,
+    "RuneName": "ブラックホール―延長",
+    "Runetip": 9402,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 94030,
+    "RuneName": "ブラックホール―集中",
+    "Runetip": 9403,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 94040,
+    "RuneName": "マナトラップ―退魔",
+    "Runetip": 9404,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 94050,
+    "RuneName": "マナトラップ―強化",
+    "Runetip": 9405,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 94060,
+    "RuneName": "シャドウチェイサー",
+    "Runetip": 9406,
+    "SkillTipParm": [
+      8.0,
+      4.0
+    ]
+  },
+  {
+    "Id": 94070,
+    "RuneName": "威嚇恐喝―驚愕",
+    "Runetip": 9407,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 94080,
+    "RuneName": "デスマーク-悪夢",
+    "Runetip": 9408,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 94090,
+    "RuneName": "デスマーク-追撃",
+    "Runetip": 9409,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 102001,
+    "RuneName": "不協和音",
+    "Runetip": 10201,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102002,
+    "RuneName": "不協和音Ⅱ",
+    "Runetip": 10202,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102003,
+    "RuneName": "不協和音Ⅲ",
+    "Runetip": 10203,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102004,
+    "RuneName": "不協和音Ⅳ",
+    "Runetip": 10204,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102005,
+    "RuneName": "不協和音Ⅴ",
+    "Runetip": 10205,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102006,
+    "RuneName": "アローシャワー-強効果",
+    "Runetip": 10206,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 102007,
+    "RuneName": "エンドレスハミングボイス",
+    "Runetip": 10207,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102008,
+    "RuneName": "エンドレスハミングボイスⅡ",
+    "Runetip": 10208,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102009,
+    "RuneName": "エンドレスハミングボイスⅢ",
+    "Runetip": 10209,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102010,
+    "RuneName": "エンドレスハミングボイスⅣ",
+    "Runetip": 10210,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102011,
+    "RuneName": "エンドレスハミングボイスⅤ",
+    "Runetip": 10211,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102012,
+    "RuneName": "演奏-禅心",
+    "Runetip": 10212,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 102013,
+    "RuneName": "演奏-守護",
+    "Runetip": 10213,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 102014,
+    "RuneName": "Int変換",
+    "Runetip": 10214,
+    "SkillTipParm": [
+      0.2
+    ]
+  },
+  {
+    "Id": 102015,
+    "RuneName": "楽器攻撃-強効果",
+    "Runetip": 10215,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 102016,
+    "RuneName": "楽器攻撃-精通",
+    "Runetip": 10216,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 102017,
+    "RuneName": "夕陽のアサシンクロス-クリティカル",
+    "Runetip": 10217,
+    "SkillTipParm": [
+      4.0
+    ]
+  },
+  {
+    "Id": 102018,
+    "RuneName": "永遠の混沌-破法",
+    "Runetip": 10218,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 102019,
+    "RuneName": "金先生-レベルアップ",
+    "Runetip": 10219,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 102020,
+    "RuneName": "戦太鼓の響き-特化",
+    "Runetip": 10220,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 102021,
+    "RuneName": "安らぎの子守唄",
+    "Runetip": 10221,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102022,
+    "RuneName": "安らぎの子守唄Ⅱ",
+    "Runetip": 10222,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102023,
+    "RuneName": "安らぎの子守唄Ⅲ",
+    "Runetip": 10223,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102024,
+    "RuneName": "安らぎの子守唄Ⅳ",
+    "Runetip": 10224,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102025,
+    "RuneName": "安らぎの子守唄Ⅴ",
+    "Runetip": 10225,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102026,
+    "RuneName": "アローバルカン-強効果",
+    "Runetip": 10226,
+    "SkillTipParm": [
+      6.0
+    ]
+  },
+  {
+    "Id": 102027,
+    "RuneName": "アローバルカン-秘奥",
+    "Runetip": 10227,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 102028,
+    "RuneName": "ニーベルングの指輪-物理",
+    "Runetip": 10228,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 102029,
+    "RuneName": "ニーベルングの指輪-魔法だ",
+    "Runetip": 10229,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 102030,
+    "RuneName": "マリオネットコントロール-シールド",
+    "Runetip": 10230,
+    "SkillTipParm": [
+      3.0,
+      10.0
+    ]
+  },
+  {
+    "Id": 102031,
+    "RuneName": "マリオネットコントロール-殺戮",
+    "Runetip": 10231,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 102032,
+    "RuneName": "ロキの叫び-呪詛",
+    "Runetip": 10232,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 102033,
+    "RuneName": "不死身のジークフリード-魔法抵抗",
+    "Runetip": 10233,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 102034,
+    "RuneName": "ブラギの詩-回復",
+    "Runetip": 10234,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 102035,
+    "RuneName": "運命のタロットカード",
+    "Runetip": 10235,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102036,
+    "RuneName": "運命のタロットカードⅡ",
+    "Runetip": 10236,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102037,
+    "RuneName": "運命のタロットカードⅢ",
+    "Runetip": 10237,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102038,
+    "RuneName": "運命のタロットカードIV",
+    "Runetip": 10238,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102039,
+    "RuneName": "運命のタロットカードV",
+    "Runetip": 10239,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 102040,
+    "RuneName": "シビアレインストーム-強化",
+    "Runetip": 10240,
+    "SkillTipParm": [
+      6.0
+    ]
+  },
+  {
+    "Id": 102041,
+    "RuneName": "シビアレインストーム-射程",
+    "Runetip": 10241,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 102042,
+    "RuneName": "振動残響-多音",
+    "Runetip": 10242,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 102043,
+    "RuneName": "振動エコー-反響",
+    "Runetip": 10243,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 102044,
+    "RuneName": "回归之歌-特化",
+    "Runetip": 10244,
+    "SkillTipParm": [
+      0.5
+    ]
+  },
+  {
+    "Id": 102045,
+    "RuneName": "循環する自然の音-回復",
+    "Runetip": 10245,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 102046,
+    "RuneName": "レーラズの霧-強体",
+    "Runetip": 10246,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 102047,
+    "RuneName": "レーラズの霧-特化",
+    "Runetip": 10247,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 102048,
+    "RuneName": "昔の夕焼けの歌-奥義",
+    "Runetip": 10248,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 102049,
+    "RuneName": "昔の夕焼けの歌-鋭刃",
+    "Runetip": 10249,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 102050,
+    "RuneName": "远古夕阳之歌-特化",
+    "Runetip": 10250,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 102051,
+    "RuneName": "ダンス・ウィズ・ウォーグ-強化",
+    "Runetip": 10251,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 103010,
+    "RuneName": "戦太鼓の響き-多効果",
+    "Runetip": 10301,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 103020,
+    "RuneName": "口笛-強化",
+    "Runetip": 10302,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 103030,
+    "RuneName": "通常攻撃熟達",
+    "Runetip": 10303,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 103040,
+    "RuneName": "寒いジョーク-強化",
+    "Runetip": 10304,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 112001,
+    "RuneName": "自分勝手なダンス",
+    "Runetip": 11201,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 112002,
+    "RuneName": "自分勝手なダンスⅡ",
+    "Runetip": 11202,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 112003,
+    "RuneName": "自分勝手なダンスⅢ",
+    "Runetip": 11203,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 112004,
+    "RuneName": "自分勝手なダンスⅣ",
+    "Runetip": 11204,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 112005,
+    "RuneName": "自分勝手なダンスⅤ",
+    "Runetip": 11205,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 112006,
+    "RuneName": "サービスフォーユー-秘技",
+    "Runetip": 11206,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 112007,
+    "RuneName": "矢撃ち-強効果",
+    "Runetip": 11207,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 112008,
+    "RuneName": "矢撃ち-精通",
+    "Runetip": 11208,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 112009,
+    "RuneName": "幸運のキスだ-幸運",
+    "Runetip": 11209,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 112010,
+    "RuneName": "エンドレスハミングボイス",
+    "Runetip": 10207,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 112011,
+    "RuneName": "エンドレスハミングボイスⅡ",
+    "Runetip": 10208,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 112012,
+    "RuneName": "エンドレスハミングボイスⅢ",
+    "Runetip": 10209,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 112013,
+    "RuneName": "エンドレスハミングボイスⅣ",
+    "Runetip": 10210,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 112014,
+    "RuneName": "エンドレスハミングボイスⅤ",
+    "Runetip": 10211,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 113010,
+    "RuneName": "私を忘れないで-強化",
+    "Runetip": 11301,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 113020,
+    "RuneName": "スクリーム-強化",
+    "Runetip": 11302,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 120010,
+    "RuneName": "パワー特化",
+    "Runetip": 12001,
+    "SkillTipParm": [
+      5.0,
+      50.0
+    ]
+  },
+  {
+    "Id": 120020,
+    "RuneName": "通常攻撃―洗練",
+    "Runetip": 12002,
+    "SkillTipParm": [
+      3.0,
+      50.0
+    ]
+  },
+  {
+    "Id": 120030,
+    "RuneName": "金剛―警戒",
+    "Runetip": 12003,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 120040,
+    "RuneName": "金剛―クイック",
+    "Runetip": 12004,
+    "SkillTipParm": [
+      0.2
+    ]
+  },
+  {
+    "Id": 120050,
+    "RuneName": "金剛―マスター",
+    "Runetip": 12005,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 120060,
+    "RuneName": "鉄拳―強化",
+    "Runetip": 12006,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 120070,
+    "RuneName": "息吹―強化",
+    "Runetip": 12007,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 120080,
+    "RuneName": "通常攻撃―SP回復",
+    "Runetip": 12008,
+    "SkillTipParm": [
+      25.0
+    ]
+  },
+  {
+    "Id": 120090,
+    "RuneName": "爆裂波動",
+    "Runetip": 12009,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 120100,
+    "RuneName": "阿修羅覇凰拳―強化",
+    "Runetip": 12010,
+    "SkillTipParm": [
+      0.6
+    ]
+  },
+  {
+    "Id": 120110,
+    "RuneName": "三段掌―強化効果",
+    "Runetip": 12011,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 120120,
+    "RuneName": "発勁―マスター",
+    "Runetip": 12012,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 120130,
+    "RuneName": "指弾―強化",
+    "Runetip": 12013,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 120140,
+    "RuneName": "指弾―クイック",
+    "Runetip": 12014,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 120150,
+    "RuneName": "猛龍拳―強化",
+    "Runetip": 12015,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 120160,
+    "RuneName": "【気功転移】",
+    "Runetip": 12016,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 120161,
+    "RuneName": "【気功転移】",
+    "Runetip": 12016,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 120170,
+    "RuneName": "気功―多重効果",
+    "Runetip": 12017,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 120180,
+    "RuneName": "沈黙中キャラに追撃",
+    "Runetip": 12018,
+    "SkillTipParm": [
+      3.0
+    ]
+  },
+  {
+    "Id": 120190,
+    "RuneName": "バインドアタック",
+    "Runetip": 12019,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 120200,
+    "RuneName": "ルアフ―延長",
+    "Runetip": 12020,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 120210,
+    "RuneName": "クリティカル追撃",
+    "Runetip": 12021,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 120220,
+    "RuneName": "発勁―強化",
+    "Runetip": 12022,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 120230,
+    "RuneName": "連打掌―強化",
+    "Runetip": 12023,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 120240,
+    "RuneName": "寸勁―強化効果",
+    "Runetip": 12024,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 120250,
+    "RuneName": "気絶の崩撃―マスター",
+    "Runetip": 12025,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 120260,
+    "RuneName": "伏虎拳―強化",
+    "Runetip": 12026,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 123010,
+    "RuneName": "金剛-幻影",
+    "Runetip": 12301,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 123020,
+    "RuneName": "残影-加速",
+    "Runetip": 12302,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 123030,
+    "RuneName": "攻守転換だ",
+    "Runetip": 12303,
+    "SkillTipParm": [
+      0.2
+    ]
+  },
+  {
+    "Id": 124010,
+    "RuneName": "號砲―破魔",
+    "Runetip": 12401,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 124020,
+    "RuneName": "號砲―爆発",
+    "Runetip": 12402,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 124030,
+    "RuneName": "羅刹破凰撃―集中",
+    "Runetip": 12403,
+    "SkillTipParm": [
+      0.3
+    ]
+  },
+  {
+    "Id": 124040,
+    "RuneName": "羅刹破凰撃―強化",
+    "Runetip": 12404,
+    "SkillTipParm": [
+      6.0
+    ]
+  },
+  {
+    "Id": 124050,
+    "RuneName": "瀕死覚醒―解脱",
+    "Runetip": 12405,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 124060,
+    "RuneName": "呪縛陣―クイック",
+    "Runetip": 12406,
+    "SkillTipParm": [
+      1.0
+    ]
+  },
+  {
+    "Id": 124070,
+    "RuneName": "点穴―快―強化",
+    "Runetip": 12407,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 124080,
+    "RuneName": "点穴―活―強化",
+    "Runetip": 12408,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 124090,
+    "RuneName": "潜龍昇天―強化",
+    "Runetip": 12409,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 130010,
+    "RuneName": "カートレボリューション―強化",
+    "Runetip": 13001,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 130020,
+    "RuneName": "スフィアーマイン―強化",
+    "Runetip": 13002,
+    "SkillTipParm": [
+      30.0
+    ]
+  },
+  {
+    "Id": 130030,
+    "RuneName": "バニルミルトの祈り",
+    "Runetip": 13003,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 130040,
+    "RuneName": "斧修練",
+    "Runetip": 13004,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 130050,
+    "RuneName": "治癒の手―赤",
+    "Runetip": 13005,
+    "SkillTipParm": [
+      15.0
+    ]
+  },
+  {
+    "Id": 130060,
+    "RuneName": "アミストルの祈り",
+    "Runetip": 13006,
+    "SkillTipParm": [
+      20.0
+    ]
+  },
+  {
+    "Id": 130070,
+    "RuneName": "Int変換",
+    "Runetip": 13007,
+    "SkillTipParm": [
+      0.2
+    ]
+  },
+  {
+    "Id": 130080,
+    "RuneName": "スフィアーパラサイト―強化",
+    "Runetip": 13008,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 130090,
+    "RuneName": "ワイルドロア―グループ",
+    "Runetip": 13009,
+    "SkillTipParm": [
+      1.5
+    ]
+  },
+  {
+    "Id": 130100,
+    "RuneName": "カプリス―強化",
+    "Runetip": 13010,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 130110,
+    "RuneName": "通常攻撃―強化",
+    "Runetip": 13011,
+    "SkillTipParm": [
+      3.0,
+      60.0
+    ]
+  },
+  {
+    "Id": 130120,
+    "RuneName": "ホムンクルスの禁術",
+    "Runetip": 13012,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 130121,
+    "RuneName": "ホムンクルスの禁術",
+    "Runetip": 13012,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 130122,
+    "RuneName": "ホムンクルスの禁術",
+    "Runetip": 13012,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 130130,
+    "RuneName": "【ヒールホムンクルス】",
+    "Runetip": 13013,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 130131,
+    "RuneName": "【ヒールホムンクルス】",
+    "Runetip": 13013,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 130132,
+    "RuneName": "【ヒールホムンクルス】",
+    "Runetip": 13013,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 130133,
+    "RuneName": "【ヒールホムンクルス】",
+    "Runetip": 13013,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 130134,
+    "RuneName": "【ヒールホムンクルス】",
+    "Runetip": 13013,
+    "SkillTipParm": [
+      2.0
+    ]
+  },
+  {
+    "Id": 130140,
+    "RuneName": "ヘルズプラント―強化",
+    "Runetip": 13014,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 130150,
+    "RuneName": "ヘルズプラント―集中",
+    "Runetip": 13015,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 130160,
+    "RuneName": "アシッドテラー―強化",
+    "Runetip": 13016,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 130170,
+    "RuneName": "リーフの祈り",
+    "Runetip": 13017,
+    "SkillTipParm": [
+      3.0,
+      3.0,
+      2.0
+    ]
+  },
+  {
+    "Id": 130180,
+    "RuneName": "ケミカルプロテクションヘルム",
+    "Runetip": 13018,
+    "SkillTipParm": [
+      1.0,
+      100.0
+    ]
+  },
+  {
+    "Id": 130181,
+    "RuneName": "ケミカルプロテクションヘルム",
+    "Runetip": 13018,
+    "SkillTipParm": [
+      1.0,
+      100.0
+    ]
+  },
+  {
+    "Id": 130182,
+    "RuneName": "ケミカルプロテクションヘルム",
+    "Runetip": 13018,
+    "SkillTipParm": [
+      1.0,
+      100.0
+    ]
+  },
+  {
+    "Id": 130190,
+    "RuneName": "鈍器マスター",
+    "Runetip": 13019,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 130200,
+    "RuneName": "アシッドテラー―集中",
+    "Runetip": 13020,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 130210,
+    "RuneName": "アシッドデモンストレーション―強化",
+    "Runetip": 13021,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 130220,
+    "RuneName": "アシッドデモンストレーション―マスター",
+    "Runetip": 13022,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 130230,
+    "RuneName": "アシッドデモンストレーション―集中",
+    "Runetip": 13023,
+    "SkillTipParm": [
+      0.25
+    ]
+  },
+  {
+    "Id": 130240,
+    "RuneName": "Luk変換",
+    "Runetip": 13024,
+    "SkillTipParm": [
+      0.2
+    ]
+  },
+  {
+    "Id": 130250,
+    "RuneName": "ホムンクルス―スキル",
+    "Runetip": 13025,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 130260,
+    "RuneName": "デモンストレーション―強化",
+    "Runetip": 13026,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 130270,
+    "RuneName": "ケミカルプロテクションシールド",
+    "Runetip": 13027,
+    "SkillTipParm": [
+      1.0,
+      100.0
+    ]
+  },
+  {
+    "Id": 130271,
+    "RuneName": "ケミカルプロテクションシールド",
+    "Runetip": 13027,
+    "SkillTipParm": [
+      1.0,
+      100.0
+    ]
+  },
+  {
+    "Id": 130272,
+    "RuneName": "ケミカルプロテクションシールド",
+    "Runetip": 13027,
+    "SkillTipParm": [
+      1.0,
+      100.0
+    ]
+  },
+  {
+    "Id": 130280,
+    "RuneName": "ヘルズプラント―秘術",
+    "Runetip": 13028,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 130290,
+    "RuneName": "カプリス―ファイアーボルト",
+    "Runetip": 13029,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 130300,
+    "RuneName": "カプリス―コールドボルト",
+    "Runetip": 13030,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 130310,
+    "RuneName": "カプリス―ライトニングボルト",
+    "Runetip": 13031,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 133010,
+    "RuneName": "アシッドデモンストレーション-強化",
+    "Runetip": 13301,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 133020,
+    "RuneName": "エレノアの祝福",
+    "Runetip": 13302,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 133030,
+    "RuneName": "ホムンクルスの禁術",
+    "Runetip": 13303,
+    "SkillTipParm": null
+  },
+  {
+    "Id": 133040,
+    "RuneName": "ソニッククロー-先鋭",
+    "Runetip": 13304,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 134010,
+    "RuneName": "デモニックファイアー―烈火",
+    "Runetip": 13401,
+    "SkillTipParm": [
+      4.0
+    ]
+  },
+  {
+    "Id": 134020,
+    "RuneName": "急速成長",
+    "Runetip": 13402,
+    "SkillTipParm": [
+      0.8
+    ]
+  },
+  {
+    "Id": 134030,
+    "RuneName": "遺伝子異変",
+    "Runetip": 13403,
+    "SkillTipParm": [
+      5.0
+    ]
+  },
+  {
+    "Id": 134040,
+    "RuneName": "カートキャノン―強化",
+    "Runetip": 13404,
+    "SkillTipParm": [
+      10.0
+    ]
+  },
+  {
+    "Id": 134050,
+    "RuneName": "苦痛の絶叫",
+    "Runetip": 13405,
+    "SkillTipParm": [
+      0.7
+    ]
+  },
+  {
+    "Id": 134060,
+    "RuneName": "クレイジーウィード―強化",
+    "Runetip": 13406,
+    "SkillTipParm": [
+      8.0
+    ]
+  },
+  {
+    "Id": 134070,
+    "RuneName": "カートブースト―加速",
+    "Runetip": 13407,
+    "SkillTipParm": [
+      2.0,
+      20.0
+    ]
+  },
+  {
+    "Id": 134080,
+    "RuneName": "ライフフュージョン―強化",
+    "Runetip": 13408,
+    "SkillTipParm": [
+      10.0,
+      15.0
+    ]
+  },
+  {
+    "Id": 134090,
+    "RuneName": "ファイアーエクスパンション―強化",
+    "Runetip": 13409,
+    "SkillTipParm": [
+      6.0
+    ]
+  }
+]

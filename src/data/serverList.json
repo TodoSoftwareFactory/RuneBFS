@@ -4,7 +4,7 @@
         "name": "X.D.Network",
         "folder": "com.xd.ro.roapk",
         "version": "280704",
-        "isDefault": true,
+        "isDefault": false,
         "isTest": false
     },
     "com.xd.ro.xdapk": {
@@ -39,10 +39,11 @@
         "id": "jp.gungho.ragnarokm",
         "name": "GungHoOnlineEntertainment",
         "folder": "jp.gungho.ragnarokm",
-        "version": "",
+        "version": "353235",
+        "isDefault": true,
         "isTest": false
     },
-    "com.gravity.rom.aos":{
+    "com.gravity.rom.aos": {
         "id": "com.gravity.rom.aos",
         "name": "GRAVITY Co., Ltd.",
         "folder": "com.gravity.rom.aos",

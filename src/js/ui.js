@@ -58,7 +58,7 @@ data["data"] = { "ja-JP": "データ", "zh-TW": "資料語言", "en-US": "Data",
 data["server"] = { "ja-JP": "サーバー", "zh-TW": "伺服器", "en-US": "Server", "zh-CN": "服务器" };
 data["disablecache"] = { "ja-JP": "キャッシュを無効化", "zh-TW": "停用快取", "en-US": "Disable Cache", "zh-CN": "禁用缓存", };
 data["enablecache"] = { "ja-JP": "キャッシュを有効化", "zh-TW": "啟用快取", "en-US": "Enable Cache", "zh-CN": "启用缓存", };
-data["disablecachewarning"]={
+data["disablecachewarning"] = {
     "ja-JP": "キャッシュを無効化にすると、ページの読み込みが遅くなります。無効化にしますか？",
     "zh-TW": "停用快取會使網頁載入變慢，是否確認停用？",
     "en-US": "Disabling caching will cause the page to load slowly, CONFIRM?",
@@ -81,14 +81,14 @@ data["disable"] = { "ja-JP": "拡張前", "zh-TW": "不啟用", "en-US": "Disabl
 data["enable"] = { "ja-JP": "拡張後", "zh-TW": "啟用", "en-US": "Enable", "zh-CN": "启用" };
 data["zoom"] = { "ja-JP": "拡大率", "zh-TW": "縮放", "en-US": "Zoom", "zh-CN": "缩放" };
 data["algorithm"] = { "ja-JP": "経路算出：", "zh-TW": "尋路算法", "en-US": "Pathfinding algorithm", "zh-CN": "寻路算法" };
-data["algorithm-simple"] = { "ja-JP": "最短経路", "zh-TW": "最短路徑", "en-US": "Shortest Path", "zh-CN": "最短路径" };
-data["algorithm-nogold"] = { "ja-JP": "最低金メダル", "zh-TW": "最少金質勳章", "en-US": "Minimum Golden Badge", "zh-CN": "最少金质勋章" };
+data["algorithm-simple"] = { "ja-JP": "最短パス", "zh-TW": "最短路徑", "en-US": "Shortest Path", "zh-CN": "最短路径" };
+data["algorithm-nogold"] = { "ja-JP": "最小ポイント", "zh-TW": "最少金質勳章", "en-US": "Minimum Golden Badge", "zh-CN": "最少金质勋章" };
 data["algorithm-custom"] = { "ja-JP": "カスタム", "zh-TW": "自定義", "en-US": "Custom", "zh-CN": "自定义" };
 data["weight"] = { "ja-JP": "比重", "zh-TW": "權重", "en-US": "Weights", "zh-CN": "权重" };
-data["contribution"] = { "ja-JP": "貢献", "zh-TW": "貢獻", "en-US": "Contribution", "zh-CN": "贡献" };
-data["goldmedal"] = { "ja-JP": "金盾", "zh-TW": "金質勳章", "en-US": "Golden Badge", "zh-CN": "金质勋章" };
+data["contribution"] = { "ja-JP": "ギルド貢献ポイント", "zh-TW": "貢獻", "en-US": "Contribution", "zh-CN": "贡献" };
+data["goldmedal"] = { "ja-JP": "ゴールドバッジ", "zh-TW": "金質勳章", "en-US": "Golden Badge", "zh-CN": "金质勋章" };
 data["selected"] = { "ja-JP": "保存済：", "zh-TW": "已選：", "en-US": "Selected:", "zh-CN": "已选：" };
-data["currentselected"] = { "ja-JP": "現選択：", "zh-TW": "本次：", "en-US": "Current:", "zh-CN": "本次：" };
+data["currentselected"] = { "ja-JP": "現在の選択：", "zh-TW": "本次：", "en-US": "Current:", "zh-CN": "本次：" };
 data["saveimage"] = { "ja-JP": "画像生成", "zh-TW": "生成全符文圖片", "en-US": "Generate all rune image", "zh-CN": "生成全符文图片" };
 data["reset"] = { "ja-JP": "選択リセット", "zh-TW": "重置本次選擇", "en-US": "Reset current selected", "zh-CN": "重置本次选择" };
 data["save"] = { "ja-JP": "選択保存", "zh-TW": "保存", "en-US": "Save", "zh-CN": "保存" };
@@ -116,7 +116,7 @@ var getLang = function () {
 var setLang = function (lang) {
     lang = lang || localStorage["uilang"] || navigator.language || navigator.browserLanguage;
     if (_.any(supportedLang, function (o) { return o.key == lang }) == false) {
-        lang = 'zh-CN';
+        lang = 'ja-JP';
     }
     currentLang = lang;
     localStorage["uilang"] = lang;
