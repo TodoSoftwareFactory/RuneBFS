@@ -344,10 +344,12 @@ var renderRuneLink = function () {
     linkcontext.textAlign = "left";
     linkcontext.fillText($('#runeCheckCost').data('cost'), 0, runeLinkHeight - 5);
     linkcontext.fillText($('#runeCost').data('cost'), 0, runeLinkHeight - 35);
-    linkcontext.font = "25px Consolas";
+    linkcontext.font = "18px Consolas";
     linkcontext.textAlign = "right";
-    linkcontext.fillText("ROMEL Rune BFS", runeLinkWidth, runeLinkHeight - 35);
-    linkcontext.fillText("Version:" + server.version + "(" + server.id + ")", runeLinkWidth, runeLinkHeight - 5);
+    linkcontext.fillText("ROMEL Rune BFS", runeLinkWidth, runeLinkHeight - 65);
+    linkcontext.fillText("Version:" + server.version + "(" + server.id + ")", runeLinkWidth, runeLinkHeight - 45);
+    linkcontext.fillText("©Gravity Co., Ltd. & LeeMyoungJin(studio DTDS) All rights reserved.", runeLinkWidth, runeLinkHeight - 25);
+    linkcontext.fillText("©GungHo Online Entertainment, Inc. All Rights Reserved.", runeLinkWidth, runeLinkHeight - 5);
     _.each(Data.getAstrolabe(), function (o, i) {
         var runeData = o;
         _.each(runeData.Link, function (o, i) {
